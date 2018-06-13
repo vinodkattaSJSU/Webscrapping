@@ -1,2 +1,6 @@
 HI
+<<<<<<< HEAD
 Helloooo vinod
+=======
+Madhu
+>>>>>>> b10c09b46477ed4a826ceae2e320f7d6705927c2
